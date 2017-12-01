@@ -1,6 +1,5 @@
 Baidu map sdk wrapped to android 'aar' library and deployed to maven central
 ====================================
-[![Build Status](https://travis-ci.org/loopj/android-async-http.png?branch=master)](https://travis-ci.org/loopj/android-async-http)
 
 Bai du map sdks wraped to android 'aar' library and deployed to maven central, based [Baidu map sdks](http://developer.baidu.com/map/).
 
